@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Alibi" tvg-name="Alibi." tvg-logo="http://emby.world/LOGOS/2/alibihd.png" group-title="UK ENTERTAINMENT",Alibi.
+http://plextreamiptv.net:80/live/cover/cover/632.ts
+#EXTINF:-1 tvg-id="Sky Arts" tvg-name="Sky Arts HD" tvg-logo="http://emby.world/LOGOS/2/skyarts.png" group-title="UK LIFESTYLE",Sky Arts HD
+http://plextreamiptv.net:80/live/cover/cover/631.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://plextream.co.uk/PICONS/foodnetwork.png" group-title="UK LIFESTYLE",Food Network
+http://plextreamiptv.net:80/live/cover/cover/650.ts
+#EXTINF:-1 tvg-id="Discovery Shed" tvg-name="Discovery Shed*" tvg-logo="http://emby.world/LOGOS/2/discoveryshed.png" group-title="UK DOCUMENTARIES",Discovery Shed*
+http://plextreamiptv.net:80/live/cover/cover/5470.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" tvg-logo="http://emby.world/LOGOS/2/homeandhealth.png" group-title="UK DOCUMENTARIES",Discovery Home & Health
+http://plextreamiptv.net:80/live/cover/cover/5451.ts
+#EXTINF:-1 tvg-id="Challenge" tvg-name="Challenge" tvg-logo="http://emby.world/LOGOS/2/challenge.png" group-title="UK LIFESTYLE",Challenge
+http://plextreamiptv.net:80/live/cover/cover/5460.ts
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality HD" tvg-logo="http://emby.world/LOGOS/2/cbsreality.png" group-title="UK LIFESTYLE",CBS Reality HD
+http://plextreamiptv.net:80/live/cover/cover/626.ts
+#EXTINF:-1 tvg-id="CBS Drama" tvg-name="CBS Drama HD" tvg-logo="http://emby.world/LOGOS/2/cbsdrama.png" group-title="UK LIFESTYLE",CBS Drama HD
+http://plextreamiptv.net:80/live/cover/cover/627.ts
+#EXTINF:-1 tvg-id="CBS Action" tvg-name="CBS Action HD" tvg-logo="http://emby.world/LOGOS/2/cbsaction.png" group-title="UK LIFESTYLE",CBS Action HD
+http://plextreamiptv.net:80/live/cover/cover/628.ts
+#EXTINF:-1 tvg-id="Eden HD" tvg-name="Eden" tvg-logo="http://emby.world/LOGOS/2/edenhd.png" group-title="UK ENTERTAINMENT",Eden
+http://plextreamiptv.net:80/live/cover/cover/13098.ts
+#EXTINF:-1 tvg-id="Real Lives" tvg-name="Real Lives." tvg-logo="http://s5.postimg.org/8j1fzd3hj/reallives.png" group-title="UK LIFESTYLE",Real Lives.
+http://plextreamiptv.net:80/live/cover/cover/9492.ts
+#EXTINF:-1 tvg-id="Real Lives" tvg-name="Real Lives" tvg-logo="http://emby.world/LOGOS/2/reallives.png" group-title="UK ENTERTAINMENT",Real Lives
+http://plextreamiptv.net:80/live/cover/cover/5560.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC." tvg-logo="http://emby.world/LOGOS/2/tlc.png" group-title="UK ENTERTAINMENT",TLC.
+http://plextreamiptv.net:80/live/cover/cover/9948.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" tvg-logo="http://emby.world/LOGOS/2/lifetimehd.png" group-title="UK LIFESTYLE",Lifetime HD
+http://plextreamiptv.net:80/live/cover/cover/6610.ts
+#EXTINF:-1 tvg-id="YESTERDAY" tvg-name="YESTERDAY" tvg-logo="http://emby.world/LOGOS/2/yesterday.png" group-title="UK LIFESTYLE",YESTERDAY
+http://plextreamiptv.net:80/live/cover/cover/5563.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Home & Health+" tvg-logo="http://emby.world/LOGOS/2/homeandhealth.png" group-title="UK LIFESTYLE",Home & Health+
+http://plextreamiptv.net:80/live/cover/cover/13338.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home" tvg-logo="http://emby.world/LOGOS/2/home.png" group-title="UK LIFESTYLE",Home
+http://plextreamiptv.net:80/live/cover/cover/6907.ts
+#EXTINF:-1 tvg-id="Home" tvg-name="Home Ire" tvg-logo="http://emby.world/LOGOS/2/home.png" group-title="UK ENTERTAINMENT",Home Ire
+http://plextreamiptv.net:80/live/cover/cover/12887.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fine Living Network" tvg-logo="http://emby.world/LOGOS/2/fotv.png" group-title="UK LIFESTYLE",Fine Living Network
+http://plextreamiptv.net:80/live/cover/cover/12134.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel UK" tvg-logo="" group-title="UK LIFESTYLE",Travel Channel UK
+http://plextreamiptv.net:80/live/cover/cover/49985.ts
