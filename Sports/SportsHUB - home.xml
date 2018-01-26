@@ -1,14 +1,14 @@
 <dir>
-<name>[COLOR dodgerblue][B]Live Sports[/B][/COLOR]</name>
-<link></link>
+<name>[COLOR white][B]Live Sports[/B][/COLOR]</name>
+<link>https://github.com/NetStreams-AIO/V3.1/raw/master/Sports/Live%20Events%20-%20home.xml</link>
 </dir>
 
 <dir>
-<name>[COLOR dodgerblue][B]Sports IPTV[/B][/COLOR]</name>
-<link></link>
+<name>[COLOR white][B]Sports IPTV[/B][/COLOR]</name>
+<link>https://github.com/NetStreams-AIO/V3.1/raw/master/Sports/Sports%20Channels/Sports%20IPTV%20Channels%20-%20home.xml</link>
 </dir>
 
 <dir>
-<name>[COLOR dodgerblue][B]Sports Highlights[/B][/COLOR]</name>
-<link></link>
+<name>[COLOR white][B]Sports Highlights[/B][/COLOR]</name>
+<link>https://github.com/NetStreams-AIO/V3.1/raw/master/Sports/Sports%20Highlights.xml</link>
 </dir>
