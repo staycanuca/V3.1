@@ -1,0 +1,73 @@
+<plugin>
+<title>[B][COLOR white]Sky Movies Action[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesaction.php#</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-action#</sublink>
+</link>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Comedy[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviescomedy.php#</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-comedy#</sublink>
+</link>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Crime[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviescrime.php#</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-crime#</sublink>
+</link>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Family[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesfamily.php#</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-family#</sublink>
+</link>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Disney[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesdisney.php#</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-disney#</sublink>
+</link>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Premiere[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviespremiere.php#</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-premiere#</sublink>
+</link>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Select[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesselect.php#</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-select#</sublink>
+</link>
+</plugin>
+
+
+
+<item>
+<title>[COLOR dodgerblue]Sky Movies Showcase[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesshowcase.php#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1024px-Sky_Movies.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Showcase[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesshowcase.php#</sublink>
+</link>
+</plugin>

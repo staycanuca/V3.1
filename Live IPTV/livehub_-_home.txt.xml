@@ -1,0 +1,39 @@
+<dir>
+<title>[COLOR white][B](Server 1) LiveHUB ALL TEST IPTV[/B][/COLOR]</title>
+<m3u>https://raw.githubusercontent.com/NetStreams-AIO/media/master/Live%20IPTV%20(OFFLINE)%20Done/iptv1.m3u</m3u>
+</dir>
+
+<dir>
+<title>[COLOR white][B](Server 2) LiveHUB UK IPTV[/B][/COLOR]</title>
+<m3u>http://illuminatitemple.xyz/atrain/netstreamstest.m3u</m3u>
+</dir>
+
+<dir>
+<title>[COLOR white][B](Server 3) LiveHUB UK IPTV[/B][/COLOR]</title>
+<m3u>https://pastebin.com/raw/SqunHhtT</m3u>
+</dir>
+
+<dir>
+<title>[COLOR white][B](Server 1) LiveHUB US/Canada IPTV[/B][/COLOR]</title>
+<m3u>https://pastebin.com/raw/Gbmv6ZgC</m3u>
+</dir>
+
+<dir>
+<title>[COLOR white][B](Server 2) LiveHUB US/Canada IPTV[/B][/COLOR]</title>
+<m3u>https://pastebin.com/raw/cRRh49M1</m3u>
+</dir>
+
+<dir>
+<title>[COLOR white][B](Back-Up) LiveHUB Mixed IPTV[/B][/COLOR]</title>
+<link>https://github.com/NetStreams-AIO/media/raw/master/Live%20IPTV%20(OFFLINE)%20Done/live.bypassed.xml</link>
+</dir>
+
+<dir>
+<title>[COLOR white][B]Sky Movies[/B][/COLOR]</title>
+<link>https://github.com/NetStreams-AIO/media/raw/master/Live%20IPTV%20(OFFLINE)%20Done/Sky%20Movies.xml</link>
+</dir>
+
+<dir>
+<title>[COLOR white][B]Sports IPTV[/B][/COLOR]</title>
+<link>https://github.com/NetStreams-AIO/media/raw/master/Live%20IPTV%20(OFFLINE)%20Done/Sports%20IPTV.xml</link>
+</dir>
