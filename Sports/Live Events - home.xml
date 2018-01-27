@@ -1,7 +1,7 @@
-<dir>
-<name>[COLOR white][B]AceStream[/B][/COLOR]</name>
-<link>https://github.com/NetStreams-AIO/V3.1/raw/master/Sports/Live%20Events%20-%20AceStream.xml</link>
-</dir>
+<plugin>
+<title>[B][COLOR white]AceStream[/COLOR][/B]</title>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://github.com/NetStreams-AIO/V3.1/raw/master/Sports/Live%20Events%20-%20AceStream.xml</link>
+</plugin>
 
 <dir>
 <name>[COLOR white][B]SportsDevil[/B][/COLOR]</name>
