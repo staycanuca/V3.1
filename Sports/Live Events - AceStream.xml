@@ -1,153 +1,55 @@
-<plugin>
+<item>
 <title>[B][COLOR limegreen]All Times Are In UK Time Zone[/COLOR][/B]</title>
 <link>
 <sublink>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=NetStreams</sublink>
 </link>
-</plugin>
+</item>
 
-<plugin>
+<item>
 <title>[B][COLOR white]PleXus Add-On & AceStream Engine Required[/COLOR][/B]</title>
 <link>
 <sublink>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=NetStreams</sublink>
 </link>
-</plugin>
+</item>
 
-<plugin>
+<item>
 <title>[B][COLOR cyan][COLOR red]RED[/COLOR] = OFFLINE[/COLOR] l [COLOR cyan][COLOR lime]GREEN[/COLOR] = ONLINE[/COLOR][/B]</title>
 <link>
 <sublink>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=NetStreams</sublink>
 </link>
-</plugin>
+</item>
 
-<plugin>
+<item>
 <title>         </title>
 <link>
 <sublink>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=NetStreams</sublink>
 </link>
-</plugin>
+</item>
 
-<plugin>
-<title>[B][COLOR blueviolet]Saturday 27th January 2018[/COLOR][/B]</title>
+<item>
+<title>[B][COLOR blueviolet]Sunday 28th January 2018[/COLOR][/B]</title>
 <link>
 <sublink>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=NetStreams</sublink>
 </link>
-</plugin>
+</item>
 
-<plugin>
+<item>
 <title>[B][COLOR lime]12:00[/COLOR][/B] l [B][COLOR white]Deportivo La Coruna v Levante[/COLOR][/B]</title>
 <link>
 <sublink>plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
 <sublink>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
 <sublink>plugin://program.plexus/?url=acestream://878eb1733f53171e3a5f53ba80fc703fc0cc2374&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
 </link>
-</plugin>
+</item>
 
 Sky Sports Football
 
-<plugin>
-<title>[B][COLOR red]12:30[/COLOR][/B] l [B][COLOR white]Peterborough United v Leicester City[/COLOR][/B]</title>
+<item>
+<title>[B][COLOR red]00:00[/COLOR][/B] l [B][COLOR white]----[/COLOR][/B]</title>
 <link>
 <sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
 <sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
 <sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
 <sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
 </link>
-</plugin>
-
-BT Sport 2
-
-<plugin>
-<title>[B][COLOR red]13:45[/COLOR][/B] l [B][COLOR white]Toulon v Bordeaux Begles[/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-</link>
-</plugin>
-
-Sky Sports Action
-
-<plugin>
-<title>[B][COLOR red]17:30[/COLOR][/B] l [B][COLOR white]Werder Bremen v Hertha Berlin[/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-</link>
-</plugin>
-
-BT Sport 1
-
-<plugin>
-<title>[B][COLOR red]17:30[/COLOR][/B] l [B][COLOR white]Newport County v Tottenham Hotspur[/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-</link>
-</plugin>
-
-BT Sport 2
-
-<plugin>
-<title>[B][COLOR red]19:45[/COLOR][/B] l [B][COLOR white]Villarreal v Real Sociedad[/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-</link>
-</plugin>
-
-Sky Sports Football
-
-<plugin>
-<title>[B][COLOR red]19:45[/COLOR][/B] l [B][COLOR white]Chievo v Juventus[/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-</link>
-</plugin>
-
-BT Sport 1
-
-<plugin>
-<title>[B][COLOR red]19:45[/COLOR][/B] l [B][COLOR white]Liverpool v West Bromwich Albion[/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-</link>
-</plugin>
-
-BT Sport 2
-
-<plugin>
-<title>[B][COLOR red]19:45[/COLOR][/B] l [B][COLOR white]Castres v Racing 92[/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-</link>
-</plugin>
-
-Sky Sports Action
-
-<plugin>
-<title>[B][COLOR red]22:00[/COLOR][/B] l [B][COLOR white]UFC Fight Night[/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-<sublink>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</sublink>
-</link>
-</plugin>
-
-BT Sport 3
+</item>
