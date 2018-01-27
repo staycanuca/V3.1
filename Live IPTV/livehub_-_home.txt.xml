@@ -19,8 +19,8 @@
 </dir>
 
 <dir>
-<title>[COLOR white][B](Server 2) LiveHUB US/Canada IPTV[/B][/COLOR]</title>
-<m3u>https://github.com/NetStreams-AIO/V3.1/raw/master/Live%20IPTV/US%20Canada%20IPTV%20-%20Server%202.m3u</m3u>
+<title>[COLOR white][B](TESTING) NetSTREAMS IPTV[/B][/COLOR]</title>
+<link>plugin://script.module.netstreams</link>
 </dir>
 
 <dir>
