@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1,ES: #0
 http://main.iotv.es:8080/live/prueba100/muoH24qEsY/10908.ts
-#EXTINF:-1,ES: #0 SD
+#EXTINF:-1,"ES: #0 SD"
 http://main.iotv.es:8080/live/prueba100/muoH24qEsY/10907.ts
-#EXTINF:-1,ES: A&E
+#EXTINF:-1,"ES: A&E"
 http://main.iotv.es:8080/live/prueba100/muoH24qEsY/10905.ts
-#EXTINF:-1,ES: A3series HD
+#EXTINF:-1,"ES: A3series HD"
 http://main.iotv.es:8080/live/prueba100/muoH24qEsY/10906.ts
-#EXTINF:-1,ES: AMC HD (1080P) [dual audio]
+#EXTINF:-1,"ES: AMC HD (1080P) [dual audio]"
 http://main.iotv.es:8080/live/prueba100/muoH24qEsY/10904.ts
-#EXTINF:-1,ES: AMC HD (720P)
+#EXTINF:-1,"ES: AMC HD (720P)"
 http://main.iotv.es:8080/live/prueba100/muoH24qEsY/10903.ts
 #EXTINF:-1,ES: Antena 3 HD (1080P)
 http://main.iotv.es:8080/live/prueba100/muoH24qEsY/10902.ts
