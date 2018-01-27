@@ -9,6 +9,13 @@
 </dir>
 
 <dir>
+<title>[COLOR white][B](TESTING 2) LiveHUB UK IPTV[/B][/COLOR]</title>
+<m3u>https://cafe-tv.net/wp-content/uploads/2018/01/uk1901.m3u</m3u>
+</dir>
+
+
+
+<dir>
 <title>[COLOR white][B](Server 3) LiveHUB UK IPTV[/B][/COLOR]</title>
 <m3u>https://github.com/NetStreams-AIO/V3.1/raw/master/Live%20IPTV/UK%20IPTV%20-%20Server%203.m3u</m3u>
 </dir>
