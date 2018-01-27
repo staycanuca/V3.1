@@ -9,20 +9,13 @@
 </dir>
 
 <dir>
-<title>[COLOR white][B](TESTING 1) LiveHUB UK IPTV[/B][/COLOR]</title>
-<m3u>https://github.com/judgementwiz/Host/raw/master/Media/Live%20TV/IPTV%20Main.m3u</m3u>
-</dir>
-
-
-
-<dir>
 <title>[COLOR white][B](Server 3) LiveHUB UK IPTV[/B][/COLOR]</title>
 <m3u>https://github.com/NetStreams-AIO/V3.1/raw/master/Live%20IPTV/UK%20IPTV%20-%20Server%203.m3u</m3u>
 </dir>
 
 <dir>
-<title>[COLOR white][B](Server 1) LiveHUB US/Canada IPTV[/B][/COLOR]</title>
-<m3u>https://github.com/NetStreams-AIO/V3.1/raw/master/Live%20IPTV/US%20Canada%20IPTV%20-%20Server%201.m3u</m3u>
+<title>[COLOR white][B](mixed) LiveHUB US/Canada IPTV[/B][/COLOR]</title>
+<m3u>http://autoiptv.net/playlist.php</m3u>
 </dir>
 
 <dir>
