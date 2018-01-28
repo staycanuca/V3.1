@@ -14,8 +14,8 @@
 </dir>
 
 <dir>
-<title>[COLOR white][B](mixed) LiveHUB US/Canada IPTV[/B][/COLOR]</title>
-<m3u>http://autoiptv.net/playlist.php</m3u>
+<title>[COLOR white][B](test) LiveHUB TEST IPTV[/B][/COLOR]</title>
+  <link>plugin://script.module.verdict.iptv</link>
 </dir>
 
 <dir>
