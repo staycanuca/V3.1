@@ -14,11 +14,11 @@
 </dir>
 
 <dir>
-<title>[COLOR white][B](----) TESTING 1[/B][/COLOR]</title>
+<title>[COLOR white][B](OFFLINE) TESTING 1[/B][/COLOR]</title>
 <link>plugin://</link>
 </dir>
 
 <dir>
-<title>[COLOR white][B](NetStreams) TESTING 2[/B][/COLOR]</title>
-<link>plugin://script.module.netstreams</link>
+<title>[COLOR white][B](OFFLINE) TESTING 2[/B][/COLOR]</title>
+<link>plugin://</link>
 </dir>
