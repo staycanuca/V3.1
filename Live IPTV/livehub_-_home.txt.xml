@@ -1,29 +1,24 @@
 <dir>
-<title>[COLOR white][B](LIVEHUB IPTV) LiveHUB UK IPTV[/B][/COLOR]</title>
-  <link>plugin://plugin.video.livehub</link>
+<title>[COLOR white][B]Live IPTV Is Currently OFFLINE[/B][/COLOR]</title>
+<link>https://</link>
 </dir>
 
 <dir>
-<title>[COLOR white][B](Server 2) LiveHUB UK IPTV[/B][/COLOR]</title>
-<m3u>https://github.com/NetStreams-AIO/V3.1/raw/master/Live%20IPTV/UK%20IPTV%20-%20Server%202.m3u</m3u>
+<title>[COLOR white][B]Please Give Me 2-3 Days[/B][/COLOR]</title>
+<link>http://</link>
 </dir>
 
 <dir>
-<title>[COLOR white][B](TESTING SCRIPT) NetSTREAMS IPTV[/B][/COLOR]</title>
+<title>[COLOR white][B]To Get It All Working Again[/B][/COLOR]</title>
+<link>https://</link>
+</dir>
+
+<dir>
+<title>[COLOR white][B](----) TESTING 1[/B][/COLOR]</title>
+<link>plugin://</link>
+</dir>
+
+<dir>
+<title>[COLOR white][B](NetStreams) TESTING 2[/B][/COLOR]</title>
 <link>plugin://script.module.netstreams</link>
-</dir>
-
-<dir>
-<title>[COLOR white][B](Back-Up) LiveHUB Mixed IPTV[/B][/COLOR]</title>
-<link>https://github.com/NetStreams-AIO/V3.1/raw/master/Live%20IPTV/live.bypassed.xml</link>
-</dir>
-
-<dir>
-<title>[COLOR white][B]Sky Movies[/B][/COLOR]</title>
-<link>https://github.com/NetStreams-AIO/V3.1/raw/master/Live%20IPTV/Sky%20Movies.xml</link>
-</dir>
-
-<dir>
-<title>[COLOR white][B]Sports IPTV[/B][/COLOR]</title>
-<link>https://github.com/NetStreams-AIO/V3.1/raw/master/Live%20IPTV/Sports%20IPTV.xml</link>
 </dir>
