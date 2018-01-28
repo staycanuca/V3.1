@@ -1,6 +1,6 @@
 <dir>
-<title>[COLOR white][B](Server 1) LiveHUB UK IPTV[/B][/COLOR]</title>
-<m3u>https://github.com/NetStreams-AIO/V3.1/raw/master/Live%20IPTV/UK%20IPTV%20-%20Server%201.m3u</m3u>
+<title>[COLOR white][B](LIVEHUB IPTV) LiveHUB UK IPTV[/B][/COLOR]</title>
+  <link>plugin://plugin.video.livehub</link>
 </dir>
 
 <dir>
