@@ -9,17 +9,7 @@
 </dir>
 
 <dir>
-<title>[COLOR white][B](Server rs) LiveHUB UK IPTV[/B][/COLOR]</title>
-<link>plugin://scriptv.module.rsiptv</link>
-</dir>
-
-<dir>
-<title>[COLOR white][B](test) LiveHUB TEST IPTV[/B][/COLOR]</title>
-  <link>plugin://script.module.verdict.iptv</link>
-</dir>
-
-<dir>
-<title>[COLOR white][B](TESTING) NetSTREAMS IPTV[/B][/COLOR]</title>
+<title>[COLOR white][B](TESTING SCRIPT) NetSTREAMS IPTV[/B][/COLOR]</title>
 <link>plugin://script.module.netstreams</link>
 </dir>
 
