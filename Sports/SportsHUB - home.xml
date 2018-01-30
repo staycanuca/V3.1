@@ -8,7 +8,7 @@
 <link>https://github.com/NetStreams-AIO/V3.1/raw/master/Sports/Sports%20Channels/Sports%20IPTV%20Channels%20-%20home.xml</link>
 </dir>
 
-<dir>
-<name>[COLOR white][B]Sports Highlights[/B][/COLOR]</name>
-<link>https://github.com/NetStreams-AIO/V3.1/raw/master/Sports/Sports%20Highlights.xml</link>
-</dir>
+<plugin>
+<title>[B][COLOR white]Sports Highlights[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHLhELgY7cqSles0iT_fVw9G/</link>
+</plugin>
