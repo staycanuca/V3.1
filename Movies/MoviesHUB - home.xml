@@ -35,7 +35,7 @@
 
 <dir>
 <title>[B][COLOR white]Trending[/COLOR][/B]</title>
-<trakt>https://api.trakt.tv/movies/trending/items</trakt>
+<trakt>https://api.trakt.tv/movies/trending</trakt>
 </dir>
 
 <dir>
